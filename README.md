@@ -1,4 +1,4 @@
 # Practice
 this repo is used for practice
 <br>
-Author- Rizwan Khan
+Author- Rizwan 
